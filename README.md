@@ -15,19 +15,26 @@ This system was built using the **MERN stack** (MongoDB, Express.js, React.js, N
 - 📦 Warehouse Management  
 
 ---
+🔧 My Contribution – Order & Delivery Management (with Chatbot Integration)
+I was fully responsible for the Order & Delivery Management module, which includes:
 
-## 🔧 My Contribution – Order & Delivery Management
+✅ Order placement & real-time tracking
 
-As the developer responsible for the **Order & Delivery Management** module, I implemented the following key features:
+✅ Delivery scheduling for local and export orders
 
-- ✅ Order placement and real-time tracking  
-- ✅ Delivery scheduling for both **local** and **export** operations  
-- ✅ Status management: pending, in-progress, delivered  
-- ✅ Logistics and route coordination  
-- ✅ Admin panel for adding/editing/deleting orders & deliveries  
+✅ Status lifecycle: Pending → In-progress → Delivered
 
-My work is located in the `bugfix` branch of the GitHub repository and includes both backend logic (Node.js + Express) and frontend interfaces (React.js + Tailwind CSS).
+✅ Route coordination and logistics tracking
 
+✅ Chatbot integration to enhance user interaction by allowing users to:
+
+Learn more about our products
+
+Get information about our company and services
+
+✅ Admin panel for full CRUD operations on orders & deliveries
+
+The chatbot was built using custom logic in Node.js and React, designed to assist both new visitors and existing users by answering common questions and providing a user-friendly interface.
 ---
 
 ## 🛠️ Tech Stack
