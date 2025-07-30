@@ -87,7 +87,7 @@ CEY-COIR-COMPANY/
 
 1. **Clone the repository:**
  
-git clone https://github.com/dewmirajapakshe/ITP.git
+git clone https://github.com/buddhigayashan/CEY-COIR-COMPANY.git
 cd ITP
  
  
