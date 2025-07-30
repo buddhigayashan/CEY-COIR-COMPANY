@@ -37,6 +37,8 @@ Get information about our company and services
 The chatbot was built using custom logic in Node.js and React, designed to assist both new visitors and existing users by answering common questions and providing a user-friendly interface.
 ---
 
+📂 You can view my complete implementation in the bugfix branch of our team repo.
+
 ## 🛠️ Tech Stack
 
 | Layer       | Technology        |
@@ -130,7 +132,12 @@ npm start
 [Coming Soon]
 
 🔗 GitHub Repository
-👉 https://github.com/dewmirajapakshe/ITP.git
+ 
+Main Repo: https://github.com/buddhigayashan/CEY-COIR-COMPANY.git
+
+My Implementation (Bugfix Branch): https://github.com/Lithira-Sasmitha/ITP/tree/bugfix
+
+
 
 
 
